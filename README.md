@@ -1,3 +1,3 @@
 TweetColor
 ==========
-What is going on? Why can't I push to my GitHub?
+Documentation for TweetColor, a color data visualization Python script.
